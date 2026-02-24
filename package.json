@@ -1,0 +1,25 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Implementação do https://www.tabnews.com.br/ como projeto de aprendizagem do https://curso.dev/",
+  "homepage": "https://github.com/johneliton/clone-tabnews#readme",
+  "bugs": {
+    "url": "https://github.com/johneliton/clone-tabnews/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johneliton/clone-tabnews.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^16.1.1",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
